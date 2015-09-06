@@ -6,6 +6,14 @@
   padding-top: 2em;
   padding-bottom: 2em;
 }
+.bleed-gray {
+  background-color: #EEEEEE;
+  color: #444444;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
 .bleed-green p { margin-bottom: 0px }
 .red {
   color: #dd0000;
@@ -15,7 +23,13 @@
   margin-top: 1em;
   margin-bottom: 1.5em;
 }
+.v-margin-small-top {
+  margin-top: 1em;
+}
 .v-margin-large {
   margin-top: 2em;
   margin-bottom: 2.5em;
+}
+.v-margin-large-top {
+  margin-top: 2em;
 }
